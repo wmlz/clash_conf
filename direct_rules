@@ -1,3 +1,6 @@
-IP-CIDR,20.253.1.0/24
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,ghp.395602.xyz
+#cloudflare
+IP-ASN,13335
+#azure
+IP-ASN,12076
