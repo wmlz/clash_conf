@@ -1,6 +1,4 @@
+#上海联通IPTV源
+IP-CIDR,20.253.1.0/24
 DOMAIN-SUFFIX,tailscale.com
-#cloudflare
-IP-ASN,13335
-#azure
-IP-ASN,12076
-IP-ASN,8075
+DOMAIN-SUFFIX,ghp.395602.xyz
