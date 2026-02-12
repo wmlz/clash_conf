@@ -1,4 +1,6 @@
-#上海联通IPTV源
+# tailscale
+IP-CIDR,100.64.0.0/10,DIRECT
+# 上海联通IPTV源
 IP-CIDR,20.253.1.0/24
 DOMAIN-KEYWORD,tailscale
 DOMAIN-SUFFIX,ghp.395602.xyz
