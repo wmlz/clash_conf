@@ -1,5 +1,5 @@
 # tailscale
-IP-CIDR,100.64.0.0/10,DIRECT
+IP-CIDR,100.64.0.0/10
 # 上海联通IPTV源
 IP-CIDR,20.253.1.0/24
 DOMAIN-KEYWORD,tailscale
